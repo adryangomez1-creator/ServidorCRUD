@@ -1,0 +1,1 @@
+export type EstadoProducto = "EXISTENTE" | "AGOTADO" | "DESCONTINUADO";
